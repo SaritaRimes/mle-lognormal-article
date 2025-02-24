@@ -1,0 +1,24 @@
+# -------------------- Fittings -------------------- #
+================================= 10%
+x_limit = [0, 550]  # 10%
+y_limit = [0, 0.13]  # 10%
+x_axis_arguments = {'mains_quantity': 6, 'x_plus': 0, 'x_minus': 50}  # 10%
+y_axis_arguments = {'mains_quantity': 7, 'y_plus': 0, 'y_minus': 0.01}  # 10%
+
+================================= 30%
+x_limit = [0, 650]  # 30%
+y_limit = [0, 0.05]  # 30%
+x_axis_arguments = {'mains_quantity': 7, 'x_plus': 0, 'x_minus': 50}  # 30%
+y_axis_arguments = {'mains_quantity': 6, 'y_plus': 0, 'y_minus': 0}  # 30%
+
+================================= 50%
+x_limit = [0, 650]  # 50% e 80%
+y_limit = [0, 0.0175]  # 50%
+x_axis_arguments = {'mains_quantity': 7, 'x_plus': 0, 'x_minus': 50}  # 50% e 80%
+y_axis_arguments = {'mains_quantity': 8, 'y_plus': 0, 'y_minus': 0}  # 50%
+
+================================= 80%
+x_limit = [0, 650]  # 50% e 80%
+y_limit = [0, 0.009]  # 80%
+x_axis_arguments = {'mains_quantity': 14, 'x_plus': 0, 'x_minus': 0}  # 50% e 80%
+y_axis_arguments = {'mains_quantity': 5, 'y_plus': 0, 'y_minus': 0.001}  # 80%
