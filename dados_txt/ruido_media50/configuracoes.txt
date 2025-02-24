@@ -1,0 +1,4 @@
+média do ruído: 50
+desvio de fase: -10 a 10
+pedestal: 50
+
