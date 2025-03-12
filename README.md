@@ -1,3 +1,5 @@
-:computer::chart_with_upwards_trend:
+<h4>Codes to plot the graphs</h4>
 
-This repository contains all the code for plot the graphs used in the article submitted to IEEE TNS periodic.
+:keyboard: This repository contains all the code to plot the graphs used in the article submitted to IEEE TNS periodic.
+
+:computer_mouse: To access the noise data, one should follow [this link](https://cernbox.cern.ch/s/xKJ9qhyrMHy5FZf).
